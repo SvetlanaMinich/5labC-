@@ -1,14 +1,22 @@
-﻿public class Room
+﻿public enum RoomType
+{
+    Standard,
+    Deluxe,
+    Suite
+}
+public class Room
 {
     private int number;
     private decimal price;
     private bool occupied;
+    private RoomType type;
 
-    public Room(int number, decimal price)
+    public Room(int number, decimal price, RoomType type)
     {
         this.number = number;
         this.price = price;
-        this.occupied = false;
+        this.type = type;
+        this.IsOccupied = false;
     }
     public int GetNumber()
     {
@@ -31,6 +39,10 @@
     public void SetUnoccupied()
     {
         occupied = false;
+    }
+    public RoomType GetRoomType()
+    {
+        return type;
     }
 }
 class Customer
@@ -58,6 +70,7 @@ class Customer
     {
         this.roomNumber = roomNumber;
     }
+
 }
 class Hotel
 {
@@ -71,7 +84,7 @@ class Hotel
     }
     public void AddRoom(int number, decimal price)
     {
-        Room room = new Room(number, price);
+        Room room = new Room(number, price, RoomType.Standard);
         rooms.Add(room);
     }
     public List<Room> GetAvailableRooms()
