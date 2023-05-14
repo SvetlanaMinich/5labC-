@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_253503_Minich/1.0.0": {
+        "runtime": {
+          "_253503_Minich.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_253503_Minich/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

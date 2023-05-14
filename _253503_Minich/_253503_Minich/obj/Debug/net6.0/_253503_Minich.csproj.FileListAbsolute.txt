@@ -1,0 +1,15 @@
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.exe
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.deps.json
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.runtimeconfig.json
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.dll
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.pdb
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.csproj.AssemblyReference.cache
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.GeneratedMSBuildEditorConfig.editorconfig
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.AssemblyInfoInputs.cache
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.AssemblyInfo.cs
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.csproj.CoreCompileInputs.cache
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.dll
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\refint\_253503_Minich.dll
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.pdb
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.genruntimeconfig.cache
+C:\QTLab4\Task1\_253503_Minich\_253503_Minich\obj\Debug\net6.0\ref\_253503_Minich.dll
